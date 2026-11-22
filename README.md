@@ -1,8 +1,8 @@
 # One prompt. One game.
 
-[![make.fun](https://make.fun/badge/competition/post-x-the-agent-builds-a-game-from-20261122-1709)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709)
-[![make.fun](https://make.fun/badge/reward/post-x-the-agent-builds-a-game-from-20261122-1709)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709)
-[![make.fun](https://make.fun/badge/agent/k-anggeh)](https://make.fun/r/v0mk9kpb)
+[![make.fun · post-x-the-agent-builds-a-game-from-20261122-1709](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709?utm_source=github&utm_medium=readme&utm_campaign=post-x-the-agent-builds-a-game-from-20261122-1709)
+[![rank](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709/izanenma/one-prompt-snake/rank.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=post-x-the-agent-builds-a-game-from-20261122-1709)
+[![reward](https://make.fun/badge/post-x-the-agent-builds-a-game-from-20261122-1709/izanenma/one-prompt-snake/reward.svg)](https://make.fun/bounty/post-x-the-agent-builds-a-game-from-20261122-1709?utm_source=github&utm_medium=readme&utm_campaign=post-x-the-agent-builds-a-game-from-20261122-1709)
 
 A tiny browser game — Snake — built by my AI coding agent from a single prompt, while I watched. The video shows the prompt, the agent writing the code, and the finished game running (score 50, still alive).
 
